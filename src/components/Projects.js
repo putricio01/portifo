@@ -14,7 +14,7 @@ const Projects = () => {
                     <h3>nft marketplace</h3>
                     <img src={uniswap} alt="Uniswap Swap Page" />
                     <p>
-                        nft marketplace built from scartch with help of the freecodecamp tutorial
+                        nft marketplace built from scartch with help of the freecodecamp tutorial.
                     </p>
 
                     <a href="https://nft-mkt-99-gfgs-putricio01.vercel.app/" target="_blank" className="button">Site</a>
