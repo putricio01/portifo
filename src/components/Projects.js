@@ -21,7 +21,8 @@ const Projects = () => {
                     <a href="https://github.com/putricio01/nft-mkt-99" target="_blank" className="button">Code</a>
                 </div>
 
-                
+
+
 
                
             </div>
