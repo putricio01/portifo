@@ -1,6 +1,6 @@
 const pzweb3g = () => {
     return (
-        <div className="pzweb3g">
+        <div className="about">
         <h2>Web3 Gaming</h2>
         <p>
             I believe nfts and web3 technology have a bright future in the Gaming
@@ -10,6 +10,8 @@ const pzweb3g = () => {
             it will show the game object. 
         </p>
         </div>
+        
+        
     );
 }
 export default pzweb3g;
