@@ -19,6 +19,7 @@ const Projects = () => {
 
                     <a href="https://nft-mkt-99-gfgs-putricio01.vercel.app/" target="_blank" className="button">Site</a>
                     <a href="https://github.com/putricio01/nft-mkt-99" target="_blank" className="button">Code</a>
+                    <a href="https://github.com/putricio01/solidity-nft-mkt.git" target="_blank" className="button">Contracts</a>
                 </div>
 
 
