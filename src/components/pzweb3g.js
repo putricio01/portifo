@@ -7,7 +7,8 @@ const pzweb3g = () => {
             industry. This is a really simple unity project, you need to sign in 
             with a metamask wallet but it will bring you to a blank page. Only if 
             you own any of the nfts listed on the nft marketplace from above 
-            it will show the game object. 
+            it will show the game object. If you want to try with different wallets
+            you'll have to manually logout from metamask in "⋮" -> connected sites . 
         </p>
         </div>
         
